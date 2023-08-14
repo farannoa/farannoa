@@ -1,4 +1,5 @@
 Noa Faran - Software Engineer
+
 👋 Hi there! I'm Noa Faran, a passionate and driven Software Engineer from Herzliya. I'm currently a fourth-year Computer Science student at Reichman University, with just one semester left to complete my degree. I'm actively seeking a Junior Software Engineer position to further contribute my skills and knowledge.
 
 About Me
